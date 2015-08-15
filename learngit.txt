@@ -1,2 +1,7 @@
 learn to use git.
+<<<<<<< HEAD
 dev fun.
+=======
+fun.
+
+>>>>>>> master
